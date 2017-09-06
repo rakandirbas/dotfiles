@@ -1,0 +1,11 @@
+[user]
+	email = 
+	name = Rakan Dirbas
+
+[alias]
+	st = status
+	ct = commit
+	pl = pull --rebase
+	co = checkout
+[push]
+	default = simple
