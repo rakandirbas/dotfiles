@@ -9,3 +9,6 @@
 	co = checkout
 [push]
 	default = simple
+[core]
+        excludesfile = /home/myusername/.gitignore
+
